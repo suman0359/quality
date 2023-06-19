@@ -1,14 +1,14 @@
 {
-    "name": "endroid/quality",
+    "name": "suman0359/quality",
     "description": "Endroid Quality",
     "keywords": ["endroid", "quality","dev"],
-    "homepage": "https://github.com/endroid/quality",
+    "homepage": "https://github.com/suman0-359/quality",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeroen van den Enden",
-            "email": "info@endroid.nl"
+            "name": "Tasfir Hossain Suman",
+            "email": "tasfir@webtech-bd.com"
         }
     ],
     "require": {
